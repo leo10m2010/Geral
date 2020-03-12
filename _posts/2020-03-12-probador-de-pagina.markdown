@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Probando pagina
-date:   201820-03-12 16:03:30 +0300
+date:   2020-03-12 16:03:30 +0300
 image:  05.jpg
 tags:   Life
 ---
